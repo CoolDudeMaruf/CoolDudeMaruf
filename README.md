@@ -12,9 +12,9 @@
 
 ### About Me
 
-- CSE student, based in Dhaka, Bangladesh
+- CSE student, from Dhaka Univerisity of Engineering & Technology
 - Currently building web platforms, IoT systems, and hackathon projects
-- Recently worked on EduVerse (an e-learning platform) and ShadowMonarch (Techathon 2026)
+- Recently worked on Industrial Automation Robot System in Techathon 2026 (IUTRS)
 - Exploring AI/ML, data analysis, and system automation
 - Fun fact: I compete in hackathons and love bringing ideas to life fast
 
