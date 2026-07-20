@@ -5,14 +5,14 @@
   <a href="https://linkedin.com/in/s-m-mohaimenul-islam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/smmaruf61935663"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/__mohaimenul"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-      <a<a href="https://www.facebook.com/cooldudesweb"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/cooldudesweb"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
 ### About Me
 
-- CSE student, from Dhaka Univerisity of Engineering & Technology
+- CSE student, from Dhaka University of Engineering & Technology
 - Currently building web platforms, IoT systems, and hackathon projects
 - Recently worked on Industrial Automation Robot System in Techathon 2026 (IUTRS)
 - Exploring AI/ML, data analysis, and system automation
@@ -37,15 +37,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CoolDudeMaruf&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolDudeMaruf&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoolDudeMaruf&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">Reach me at any of the links above — always open to collaborating on interesting projects!</p>
-
